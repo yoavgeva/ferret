@@ -13,6 +13,19 @@ Ferret is a Command-line application that executes Ferret pipelines written in Y
 ## Getting Started
 
 
+```{p}
+1 + 1
+```
+
+```
+print("You will not see the text output.")
+```
+
+<!-- This is commented out. -->
+wow
+
+
+
 ### Installation
 Prepare your Github user and token, and run the following commands:
 
